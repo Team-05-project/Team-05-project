@@ -9,8 +9,8 @@ import s3fs
 
 
 def create_fs_for_s3():
-    aws_access_key = 'AKIAQ3EGQZ2G3F6HP5FR'
-    aws_secret_key = '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'
+    aws_access_key = '****************P5FR'
+    aws_secret_key = '************************************wBwZ'
     bucket_name = 'twitterdata-analytics'
     # Create an S3 filesystem object
     # Use anon=False to use your AWS credentials
